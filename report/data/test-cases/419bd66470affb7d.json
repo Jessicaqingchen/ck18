@@ -1,0 +1,113 @@
+{
+  "uid" : "419bd66470affb7d",
+  "name" : "test_add_float[浮点数]",
+  "fullName" : "test_day2.TestDemo2#test_add_float",
+  "historyId" : "c256cf61675113828f58807d3f0fd818",
+  "time" : {
+    "start" : 1618414407721,
+    "stop" : 1618414407721,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "a",
+    "time" : {
+      "start" : 1618414407721,
+      "stop" : 1618414407721,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "initcalc_class",
+    "time" : {
+      "start" : 1618414407704,
+      "stop" : 1618414407704,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "initcalc_class::0",
+    "time" : {
+      "start" : 1618414407727,
+      "stop" : 1618414407727,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "计算器"
+  }, {
+    "name" : "story",
+    "value" : "浮点数相加"
+  }, {
+    "name" : "suite",
+    "value" : "test_day2"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDemo2"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-J71605H0"
+  }, {
+    "name" : "thread",
+    "value" : "26920-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_day2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "0.1"
+  }, {
+    "name" : "b",
+    "value" : "0.1"
+  }, {
+    "name" : "expect",
+    "value" : "0.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "419bd66470affb7d.json",
+  "parameterValues" : [ "0.1", "0.1", "0.2" ]
+}

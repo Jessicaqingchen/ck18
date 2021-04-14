@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 14 23:33:27 CST 2021","Wed Apr 14 23:33:27 CST 2021","0","","test_day2","TestDemo2","","","test_dis[2-2-1]",""
+"passed","Wed Apr 14 23:33:27 CST 2021","Wed Apr 14 23:33:27 CST 2021","0","","test_day2","TestDemo2","","","test_add_float[浮点数]",""
+"passed","Wed Apr 14 23:33:27 CST 2021","Wed Apr 14 23:33:27 CST 2021","0","","test_day2","TestDemo2","","","test_add[int2]",""
+"passed","Wed Apr 14 23:33:27 CST 2021","Wed Apr 14 23:33:27 CST 2021","0","","test_day2","TestDemo2","","","test_add[int1]",""
+"passed","Wed Apr 14 23:33:27 CST 2021","Wed Apr 14 23:33:27 CST 2021","0","","test_day2","TestDemo2","","","test_add_float[浮点数2]",""
+"passed","Wed Apr 14 23:33:27 CST 2021","Wed Apr 14 23:33:27 CST 2021","0","","test_day2","TestDemo2","","","test_dis[0.1-0-False]",""
