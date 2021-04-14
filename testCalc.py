@@ -1,5 +1,5 @@
 # coding:utf-8
-# author:huangjing
+# author:ck18
 # data:2021-04-09
 import pytest
 
@@ -15,12 +15,16 @@ class TestCalc:
         print(("x+y=", x + y))
         return x + y
 
+    def test_sub(self, x, y):
+        print(("x-y=", x - y))
+        return x - y
+
     def test_mult(self, x, y):
         print(("x*y=", x * y))
         return x * y
 
     def test_division(self, x, y):
-        pytest.xfail(reason='除数不能为0')
+        # pytest.xfail(reason='除数不能为0')
         print("x/y=", x / y)
         return x / y
 
